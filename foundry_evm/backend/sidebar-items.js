@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BackendDatabaseSnapshot","DatabaseError","RevertDiagnostic","RevertSnapshotAction"],"struct":["Backend","BackendInner","BackendSnapshot","CowBackend","EmptyDBWrapper","Fork","MemDb","StateSnapshot"],"trait":["DatabaseExt"],"type":["DatabaseResult","FoundryEvmInMemoryDB","LocalForkId"]};
